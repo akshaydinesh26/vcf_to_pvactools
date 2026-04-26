@@ -1,4 +1,4 @@
-# VCF to pvactools Nextflow Workflow
+# VCF to pvactools
 
 ## Overview
 **VCF to pvactools** is a modular Nextflow workflow for **neo peptide prediction** from tumor–normal sequencing data in the form of a vcf generated with mutect2 using sarek workflow. RNAseq data is added from the bam and gene and isoform count file into vcf before its processed for pvactools which is the neo peptide prediction tool. This workflow is coding the procedure recommened in the pvactools manual into a nextflow pipeline.
