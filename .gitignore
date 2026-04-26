@@ -1,0 +1,6 @@
+data/
+*.vcf
+*.bam
+*.cram
+results/
+work/
